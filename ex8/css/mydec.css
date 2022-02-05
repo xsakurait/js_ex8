@@ -1,0 +1,10 @@
+body {
+    padding-top: 4px;
+    bottom: 1px, solid #ddd;
+    border-radius: 3px;
+    text-align: center;
+}
+
+fieldset{
+    display: inline;
+}
